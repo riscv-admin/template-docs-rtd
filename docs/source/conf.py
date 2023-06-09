@@ -2,10 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
-
+project = '<RISC-V Docs Template>'
+copyright = '2023, RISC-V International'
+author = 'RISC-V International'
 release = '0.1'
 version = '0.1.0'
 
@@ -17,6 +16,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser'
 ]
 
 intersphinx_mapping = {
