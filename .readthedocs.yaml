@@ -18,10 +18,7 @@ build:
 # Install Python modules
 python:
   install:
-    - method: pip
-      path: .
-      extra_requirements:
-        - myst-parser
+    - requirements: dependencies/python_packages.txt
  
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
