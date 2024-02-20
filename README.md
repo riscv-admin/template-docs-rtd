@@ -1,4 +1,4 @@
-# Template for RISC-V Markdown Docs pubblished via the Read the Docs
+# Template for RISC-V Markdown Docs published via the Read the Docs
 
 This GitHub template is based on the Read the Docs tutorial
 here:
